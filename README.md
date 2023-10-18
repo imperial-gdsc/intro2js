@@ -6,9 +6,7 @@
 
 [😮 Submit your extensions for Flappy Birds](https://forms.gle/PR3DUMuW1FPUHDzH9)
 
-##  👋 Socials
-
-### 😄 GSDC
+##  👋 GDSC Socials
 
 | Link       | <img width="100px" src="./gdsc%20logo.webp">                                                                   |
 | ---------  | --------------------------------------------------------------                                                 |
